@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d5477fd-84d4-41f5-8faf-d9b1256e12e2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../2. React Patterns/pattern/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3. React HOC/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../3. React HOC/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,7 +17,7 @@
     <session id="-1416498948">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.7" value="1" />
@@ -232,12 +231,12 @@
       <workItem from="1547585071744" duration="5622000" />
       <workItem from="1547632055960" duration="449000" />
       <workItem from="1547657201769" duration="239000" />
-      <workItem from="1547657639254" duration="242000" />
+      <workItem from="1547657639254" duration="545000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6552000" />
+    <option name="totallyTimeSpent" value="6855000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1653" height="1027" extended-state="0" />

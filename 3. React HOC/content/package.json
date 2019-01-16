@@ -1,0 +1,90 @@
+{
+  "name": "react-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@dc0de/react-apollo-hooks": "0.0.1-alpha.5",
+    "@types/draft-js": "^0.10.26",
+    "@types/graphql": "^14.0.3",
+    "@types/jest": "^23.3.9",
+    "@types/moment": "^2.13.0",
+    "@types/node": "^10.12.9",
+    "@types/react": "^16.7.6",
+    "@types/react-color": "^2.13.6",
+    "@types/react-dom": "^16.0.9",
+    "@types/react-draft-wysiwyg": "^1.12.0",
+    "@types/react-router": "^4.4.1",
+    "@types/react-router-dom": "^4.3.1",
+    "antd": "^3.10.7",
+    "apollo-cache-inmemory": "^1.3.10",
+    "apollo-client-preset": "^1.0.8",
+    "apollo-link": "^1.2.3",
+    "apollo-link-error": "^1.1.5",
+    "apollo-link-http": "^1.5.5",
+    "apollo-link-mock": "^1.0.1",
+    "apollo-link-rest": "^0.6.0",
+    "apollo-link-state": "^0.4.2",
+    "babel-plugin-import": "^1.11.0",
+    "draft-js": "^0.10.5",
+    "draftjs-to-html": "^0.8.4",
+    "graphql": "^14.0.2",
+    "html-to-draftjs": "^1.4.0",
+    "jest-dom": "^2.1.1",
+    "moment": "^2.22.2",
+    "react": "^16.7.0-alpha.2",
+    "react-apollo": "^2.3.1",
+    "react-app-rewire-less": "^2.1.3",
+    "react-app-rewired": "^1.6.2",
+    "react-color": "^2.14.1",
+    "react-dom": "^16.7.0-alpha.2",
+    "react-draft-wysiwyg": "^1.12.13",
+    "react-render-html": "^0.6.0",
+    "react-router-dom": "^4.4.0-beta.6",
+    "react-scripts": "2.1.1",
+    "react-testing-library": "^5.3.1",
+    "typescript": "^3.1.6",
+    "use-react-router": "^1.0.2"
+  },
+  "scripts": {
+    "start": "react-app-rewired start",
+    "build": "react-app-rewired build",
+    "test": "react-app-rewired test --env=jsdom --verbose=false",
+    "coverage": "react-app-rewired test --coverage --env=jsdom --verbose=false",
+    "eject": "react-scripts eject",
+    "schema": "get-graphql-schema --json --header 'Srm-Client-Id=marketo_sandbox' http://localhost:5000/graphql > ./src/schema.json",
+    "types": "apollo codegen:generate ./src/__generated__/types.ts --schema ./src/schema.json --target typescript --queries ./src/**/queries.ts --outputFlat --addTypename"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "jest": {
+    "coverageThreshold": {
+      "global": {
+        "branches": 80,
+        "functions": 80,
+        "lines": 80,
+        "statements": 80
+      }
+    },
+    "collectCoverageFrom": [
+      "src/**/*.{js,jsx,ts,tsx}",
+      "!src/index.tsx",
+      "!src/**/hooks/*.{ts,js}",
+      "!src/registerServiceWorker.ts",
+      "!src/setupProxy.js",
+      "!src/setupTest.js"
+    ]
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "devDependencies": {
+    "apollo": "^1.9.2",
+    "apollo-codegen": "^0.20.2",
+    "graphql-typescript-definitions": "^0.13.3",
+    "http-proxy-middleware": "^0.19.1"
+  }
+}

@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d5477fd-84d4-41f5-8faf-d9b1256e12e2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../2. React Patterns/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../2. React Patterns/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3. React HOC/hoc" beforeDir="false" afterPath="$PROJECT_DIR$/../3. React HOC/hoc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../5. React Hooks/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../5. React Hooks/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. React Patterns/pattern/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3. React HOC/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../3. React HOC/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -21,8 +20,9 @@
         <counts>
           <entry key="project.closed" value="3" />
           <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -175,7 +175,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -192,6 +191,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -232,11 +232,12 @@
       <workItem from="1547585071744" duration="5622000" />
       <workItem from="1547632055960" duration="449000" />
       <workItem from="1547657201769" duration="239000" />
+      <workItem from="1547657639254" duration="242000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6310000" />
+    <option name="totallyTimeSpent" value="6552000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1653" height="1027" extended-state="0" />

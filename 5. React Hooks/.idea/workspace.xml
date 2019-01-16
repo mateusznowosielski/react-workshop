@@ -1,7 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="598f18fe-30ed-4b38-8858-c517eb39bfa1" name="Default Changelist" comment="" />
+    <list default="true" id="598f18fe-30ed-4b38-8858-c517eb39bfa1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../1. React Lifecycle/.idea/1. React Lifecycle.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1. React Lifecycle/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1. React Lifecycle/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1. React Lifecycle/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1. React Lifecycle/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1. React Lifecycle/content/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1. React Lifecycle/content/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1. React Lifecycle/content/config-overrides.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1. React Lifecycle/content/images.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1. React Lifecycle/content/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1. React Lifecycle/content/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1. React Lifecycle/content/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1. React Lifecycle/content/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1. React Lifecycle/content/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1. React Lifecycle/content/src/App.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1. React Lifecycle/content/src/App.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1. React Lifecycle/content/src/components/ClassComponent.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1. React Lifecycle/content/src/components/FunctionalComponent.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1. React Lifecycle/content/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1. React Lifecycle/content/src/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1. React Lifecycle/content/src/react-app-env.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1. React Lifecycle/content/src/registerServiceWorker.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1. React Lifecycle/content/src/schema.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1. React Lifecycle/content/src/setupProxy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1. React Lifecycle/content/src/setupTest.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1. React Lifecycle/content/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1. React Lifecycle/content/tsconfig.paths.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1. React Lifecycle/content/tsconfig.prod.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1. React Lifecycle/content/tsconfig.test.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1. React Lifecycle/content/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4. React Context/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../7. React Apollo/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1. React Lifecycle/lifecycle" beforeDir="false" afterPath="$PROJECT_DIR$/../1. React Lifecycle/lifecycle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2. React Patterns/patterns" beforeDir="false" afterPath="$PROJECT_DIR$/../2. React Patterns/patterns" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3. React HOC/hoc" beforeDir="false" afterPath="$PROJECT_DIR$/../3. React HOC/hoc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4. React Context/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../4. React Context/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7. React Apollo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../7. React Apollo/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -16,9 +56,9 @@
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="3" />
-          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.0" value="3" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -50,7 +90,7 @@
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts">
         <counts>
-          <entry key="TypeScriptServerServiceImpl" value="2" />
+          <entry key="TypeScriptServerServiceImpl" value="3" />
         </counts>
       </usages-collector>
     </session>
@@ -61,7 +101,7 @@
         <entry file="file://$PROJECT_DIR$/hooks/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="552">
+              <first_editor relative-caret-position="644">
                 <caret line="28" column="42" selection-start-line="28" selection-start-column="42" selection-end-line="28" selection-end-column="42" />
               </first_editor>
               <second_editor />
@@ -82,12 +122,15 @@
         <entry file="file://$PROJECT_DIR$/hooks/src/components/FunctionalComponent.tsx">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="23">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -112,17 +155,17 @@
       <path value="$PROJECT_DIR$/hooks/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="y" value="23" />
     <option name="width" value="1680" />
     <option name="height" value="1027" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -135,23 +178,11 @@
               <item name="5. React Hooks" type="462c0819:PsiDirectoryNode" />
               <item name="hooks" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="5. React Hooks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="5. React Hooks" type="462c0819:PsiDirectoryNode" />
-              <item name="hooks" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="5. React Hooks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="5. React Hooks" type="462c0819:PsiDirectoryNode" />
-              <item name="hooks" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -194,15 +225,15 @@
       <workItem from="1547147246505" duration="3505000" />
       <workItem from="1547584176928" duration="4135000" />
       <workItem from="1547623488205" duration="5000" />
+      <workItem from="1547632219862" duration="162000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7645000" />
+    <option name="totallyTimeSpent" value="7807000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="1027" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1680" height="1027" extended-state="1" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15611814" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -241,7 +272,7 @@
     <entry file="file://$PROJECT_DIR$/hooks/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="552">
+          <first_editor relative-caret-position="644">
             <caret line="28" column="42" selection-start-line="28" selection-start-column="42" selection-end-line="28" selection-end-column="42" />
           </first_editor>
           <second_editor />
@@ -258,7 +289,7 @@
     <entry file="file://$PROJECT_DIR$/hooks/src/components/FunctionalComponent.tsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="23">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>

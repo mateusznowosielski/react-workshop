@@ -1,7 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4d5477fd-84d4-41f5-8faf-d9b1256e12e2" name="Default Changelist" comment="" />
+    <list default="true" id="4d5477fd-84d4-41f5-8faf-d9b1256e12e2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../1. React Lifecycle/.idea/1. React Lifecycle.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1. React Lifecycle/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1. React Lifecycle/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1. React Lifecycle/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1. React Lifecycle/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1. React Lifecycle/content/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1. React Lifecycle/content/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1. React Lifecycle/content/config-overrides.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1. React Lifecycle/content/images.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1. React Lifecycle/content/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1. React Lifecycle/content/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1. React Lifecycle/content/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1. React Lifecycle/content/tsconfig.paths.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1. React Lifecycle/content/tsconfig.prod.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1. React Lifecycle/content/tsconfig.test.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1. React Lifecycle/content/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5. React Hooks/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../7. React Apollo/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1. React Lifecycle/lifecycle" beforeDir="false" afterPath="$PROJECT_DIR$/../1. React Lifecycle/lifecycle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2. React Patterns/patterns" beforeDir="false" afterPath="$PROJECT_DIR$/../2. React Patterns/patterns" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3. React HOC/hoc" beforeDir="false" afterPath="$PROJECT_DIR$/../3. React HOC/hoc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5. React Hooks/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../5. React Hooks/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7. React Apollo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../7. React Apollo/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -16,12 +42,13 @@
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="1" />
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="gitignore" value="1" />
           <entry key="html" value="1" />
           <entry key="md" value="1" />
           <entry key="tsx" value="5" />
@@ -31,6 +58,7 @@
         <counts>
           <entry key="HTML" value="1" />
           <entry key="Markdown" value="1" />
+          <entry key="PLAIN_TEXT" value="1" />
           <entry key="TypeScript JSX" value="5" />
         </counts>
       </usages-collector>
@@ -54,12 +82,24 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/context/src/components/Trigger.tsx">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="368">
-              <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+              <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/context/src/components/ProviderComponent.tsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="414">
+              <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
               <folding>
                 <element signature="e#0#31#0" expanded="true" />
               </folding>
@@ -68,13 +108,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/context/src/components/ProviderComponent.tsx">
+        <entry file="file://$PROJECT_DIR$/context/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="18" column="24" lean-forward="true" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
-              <folding>
-                <element signature="e#0#31#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="230">
+              <caret line="10" column="12" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -83,7 +120,7 @@
         <entry file="file://$PROJECT_DIR$/context/src/components/Reader.tsx">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="184">
-              <caret line="8" column="52" lean-forward="true" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
+              <caret line="8" column="52" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
               <folding>
                 <element signature="e#0#31#0" expanded="true" />
               </folding>
@@ -95,7 +132,7 @@
         <entry file="file://$PROJECT_DIR$/context/src/App.tsx">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="92">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
               <folding>
                 <element signature="e#0#31#0" expanded="true" />
               </folding>
@@ -116,6 +153,9 @@
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -145,18 +185,17 @@
       <path value="$PROJECT_DIR$/context/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-1654" />
-    <option name="y" value="-640" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="y" value="23" />
     <option name="width" value="1653" />
-    <option name="height" value="1667" />
+    <option name="height" value="1027" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -169,23 +208,11 @@
               <item name="4. React Context" type="462c0819:PsiDirectoryNode" />
               <item name="context" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="4. React Context" type="b2602c69:ProjectViewProjectNode" />
-              <item name="4. React Context" type="462c0819:PsiDirectoryNode" />
-              <item name="context" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="4. React Context" type="b2602c69:ProjectViewProjectNode" />
-              <item name="4. React Context" type="462c0819:PsiDirectoryNode" />
-              <item name="context" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -224,15 +251,15 @@
       <option name="presentableId" value="Default" />
       <updated>1547585070575</updated>
       <workItem from="1547585071744" duration="5622000" />
+      <workItem from="1547632055960" duration="307000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5622000" />
+    <option name="totallyTimeSpent" value="5929000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1654" y="-640" width="1653" height="1667" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1653" height="1027" extended-state="1" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.25" />
@@ -270,18 +297,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/context/src/components/Trigger.tsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="1" column="40" lean-forward="true" selection-start-line="1" selection-start-column="40" selection-end-line="1" selection-end-column="40" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/context/src/App.tsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="368">
+          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
           <folding>
             <element signature="e#0#31#0" expanded="true" />
           </folding>
@@ -291,17 +308,17 @@
     <entry file="file://$PROJECT_DIR$/context/src/components/Reader.tsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
-          <caret line="8" column="52" lean-forward="true" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
+          <caret line="8" column="52" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
           <folding>
             <element signature="e#0#31#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/context/src/components/Trigger.tsx">
+    <entry file="file://$PROJECT_DIR$/context/src/App.tsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+        <state relative-caret-position="92">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
           <folding>
             <element signature="e#0#31#0" expanded="true" />
           </folding>
@@ -321,10 +338,17 @@
     <entry file="file://$PROJECT_DIR$/context/src/components/ProviderComponent.tsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="414">
-          <caret line="18" column="24" lean-forward="true" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+          <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
           <folding>
             <element signature="e#0#31#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/context/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="12" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
         </state>
       </provider>
     </entry>

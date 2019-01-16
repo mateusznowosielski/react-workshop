@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`verifying Connections to be rendered 1`] = `
+<div>
+  <div>
+    <h1>
+      Connections
+    </h1>
+  </div>
+</div>
+`;

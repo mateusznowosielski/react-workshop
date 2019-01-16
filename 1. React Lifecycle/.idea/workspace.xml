@@ -2,58 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8dace5d8-71ff-4dce-a382-27695c235a94" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/1. React Lifecycle.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/config-overrides.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/images.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/public/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/src/App.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/src/App.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/src/components/ClassComponent.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/src/components/FunctionalComponent.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/src/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/src/react-app-env.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/src/registerServiceWorker.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/src/schema.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/src/setupProxy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/src/setupTest.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/tsconfig.paths.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/tsconfig.prod.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/tsconfig.test.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/tslint.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../4. React Context/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../5. React Hooks/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../7. React Apollo/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lifecycle/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lifecycle/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lifecycle/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lifecycle/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lifecycle/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lifecycle/public/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lifecycle/public/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lifecycle/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lifecycle/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lifecycle/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lifecycle/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lifecycle/src/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lifecycle/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lifecycle/src/serviceWorker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2. React Patterns/patterns" beforeDir="false" afterPath="$PROJECT_DIR$/../2. React Patterns/patterns" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2. React Patterns/patterns" beforeDir="false" afterPath="$PROJECT_DIR$/../2. React Patterns/content" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../3. React HOC/hoc" beforeDir="false" afterPath="$PROJECT_DIR$/../3. React HOC/hoc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4. React Context/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../4. React Context/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../5. React Hooks/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../5. React Hooks/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../7. React Apollo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../7. React Apollo/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -68,6 +18,7 @@
     <session id="1452126181">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -90,7 +41,7 @@
         <entry file="file://$PROJECT_DIR$/content/tsconfig.prod.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="46">
-              <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+              <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -98,7 +49,7 @@
     </leaf>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/lifecycle" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -178,15 +129,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1547631933537</updated>
-      <workItem from="1547631934658" duration="1102000" />
+      <workItem from="1547631934658" duration="1256000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1102000" />
+    <option name="totallyTimeSpent" value="1256000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="1027" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24954791" />
@@ -224,7 +176,7 @@
     <entry file="file://$PROJECT_DIR$/content/tsconfig.prod.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
-          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+          <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
         </state>
       </provider>
     </entry>

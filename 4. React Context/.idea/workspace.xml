@@ -2,31 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d5477fd-84d4-41f5-8faf-d9b1256e12e2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../1. React Lifecycle/.idea/1. React Lifecycle.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1. React Lifecycle/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1. React Lifecycle/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1. React Lifecycle/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1. React Lifecycle/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1. React Lifecycle/content/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1. React Lifecycle/content/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1. React Lifecycle/content/config-overrides.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1. React Lifecycle/content/images.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1. React Lifecycle/content/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1. React Lifecycle/content/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1. React Lifecycle/content/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1. React Lifecycle/content/tsconfig.paths.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1. React Lifecycle/content/tsconfig.prod.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1. React Lifecycle/content/tsconfig.test.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../1. React Lifecycle/content/tslint.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../5. React Hooks/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../7. React Apollo/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1. React Lifecycle/lifecycle" beforeDir="false" afterPath="$PROJECT_DIR$/../1. React Lifecycle/lifecycle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2. React Patterns/patterns" beforeDir="false" afterPath="$PROJECT_DIR$/../2. React Patterns/patterns" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1. React Lifecycle/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../1. React Lifecycle/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2. React Patterns/patterns" beforeDir="false" afterPath="$PROJECT_DIR$/../2. React Patterns/content" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../3. React HOC/hoc" beforeDir="false" afterPath="$PROJECT_DIR$/../3. React HOC/hoc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../5. React Hooks/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../5. React Hooks/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../7. React Apollo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../7. React Apollo/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -41,7 +19,7 @@
     <session id="-1416498948">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.opened" value="2" />
         </counts>
@@ -185,7 +163,7 @@
       <path value="$PROJECT_DIR$/context/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1653" />
     <option name="height" value="1027" />
@@ -251,15 +229,15 @@
       <option name="presentableId" value="Default" />
       <updated>1547585070575</updated>
       <workItem from="1547585071744" duration="5622000" />
-      <workItem from="1547632055960" duration="307000" />
+      <workItem from="1547632055960" duration="449000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5929000" />
+    <option name="totallyTimeSpent" value="6071000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1653" height="1027" extended-state="1" />
+    <frame x="0" y="23" width="1653" height="1027" extended-state="0" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.25" />

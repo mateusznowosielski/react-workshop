@@ -7,15 +7,13 @@ export const MOCK_SUCCESS: Array<QueryMock> = [
       query: SEARCH_PCP,
       variables: {
         key: 'Admin',
-        limit: 6,
-        prmPermission: 1,
-        crmPermission: 1,
+        limit: 1,
       },
     },
     result: {
       data: {
-        search: {
-          __typename: "Search",
+        searchPCP: {
+          __typename: "SearchPCP",
           data: [
             {
               id: "1000",
@@ -43,9 +41,7 @@ export const MOCK_ERROR: Array<QueryMock> = [
       query: SEARCH_PCP,
       variables: {
         key: 'None',
-        limit: 6,
-        prmPermission: 1,
-        crmPermission: 1,
+        limit: 1,
       },
     },
     result: {

@@ -12,7 +12,7 @@ exports[`verifying NavSearch to be rendered 1`] = `
 </div>
 `;
 
-exports[`verifying NavSearch to be rendered with GO button 1`] = `
+exports[`verifying NavSearch to be rendered in loading state 1`] = `
 <div>
   <div>
     <input
@@ -20,18 +20,9 @@ exports[`verifying NavSearch to be rendered with GO button 1`] = `
       placeholder="Navigate to..."
       type="text"
     />
-  </div>
-</div>
-`;
-
-exports[`verifying NavSearch to be rendered with open menu and loading state 1`] = `
-<div>
-  <div>
-    <input
-      class="ant-input"
-      placeholder="Navigate to..."
-      type="text"
-    />
+    <p>
+      Loading...
+    </p>
   </div>
 </div>
 `;

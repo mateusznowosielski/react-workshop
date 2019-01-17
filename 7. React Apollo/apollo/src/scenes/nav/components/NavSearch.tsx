@@ -31,7 +31,7 @@ const NavSearch: React.FunctionComponent<any> = ()  => {
                 loading && <p>Loading...</p>
             }
             {
-                error && <p>Error!</p>
+                error && <p>{error.message}</p>
             }
             {
                 provider && <Button onClick={() => { history.push(`/provider/${provider.id}`) }}>Go</Button>

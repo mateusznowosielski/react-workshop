@@ -2,9 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9472830b-23c8-4d6e-9219-9dfebe72c2ea" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../1. React Lifecycle/lifecycle" beforeDir="false" afterPath="$PROJECT_DIR$/../1. React Lifecycle/lifecycle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2. React Patterns/patterns" beforeDir="false" afterPath="$PROJECT_DIR$/../2. React Patterns/patterns" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3. React HOC/hoc" beforeDir="false" afterPath="$PROJECT_DIR$/../3. React HOC/hoc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1. React Lifecycle/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../1. React Lifecycle/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1. React Lifecycle/lifecycle/src/components/ClassComponent.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../1. React Lifecycle/lifecycle/src/components/ClassComponent.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1. React Lifecycle/lifecycle/src/components/FunctionalComponent.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../1. React Lifecycle/lifecycle/src/components/FunctionalComponent.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2. React Patterns/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../2. React Patterns/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2. React Patterns/pattern/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../2. React Patterns/pattern/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2. React Patterns/pattern/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../2. React Patterns/pattern/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3. React HOC/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../3. React HOC/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3. React HOC/hoc/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../3. React HOC/hoc/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3. React HOC/hoc/src/components/InputComponent.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../3. React HOC/hoc/src/components/InputComponent.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4. React Context/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../4. React Context/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4. React Context/context/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../4. React Context/context/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4. React Context/context/src/components/ProviderComponent.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../4. React Context/context/src/components/ProviderComponent.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5. React Hooks/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../5. React Hooks/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5. React Hooks/hooks/src/components/FunctionalComponent.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../5. React Hooks/hooks/src/components/FunctionalComponent.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6. React Router/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../6. React Router/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apollo/src/scenes/nav/components/NavSearch.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/apollo/src/scenes/nav/components/NavSearch.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apollo/src/scenes/nav/components/__mocks__/navSearch.mock.ts" beforeDir="false" afterPath="$PROJECT_DIR$/apollo/src/scenes/nav/components/__mocks__/navSearch.mock.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apollo/src/scenes/nav/components/__tests__/NavSearch.test.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/apollo/src/scenes/nav/components/__tests__/NavSearch.test.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apollo/src/scenes/nav/components/__tests__/__snapshots__/NavSearch.test.tsx.snap" beforeDir="false" afterPath="$PROJECT_DIR$/apollo/src/scenes/nav/components/__tests__/__snapshots__/NavSearch.test.tsx.snap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apollo/src/scenes/provider/Provider.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/apollo/src/scenes/provider/Provider.tsx" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,156 +38,163 @@
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="1" />
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="html" value="1" />
-          <entry key="md" value="1" />
-          <entry key="snap" value="3" />
-          <entry key="ts" value="12" />
-          <entry key="tsx" value="16" />
+          <entry key="json" value="2" />
+          <entry key="md" value="2" />
+          <entry key="snap" value="8" />
+          <entry key="ts" value="22" />
+          <entry key="tsx" value="32" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="HTML" value="1" />
-          <entry key="Jest Snapshot" value="3" />
-          <entry key="Markdown" value="1" />
-          <entry key="TypeScript" value="12" />
-          <entry key="TypeScript JSX" value="16" />
+          <entry key="JSON" value="2" />
+          <entry key="Jest Snapshot" value="8" />
+          <entry key="Markdown" value="2" />
+          <entry key="TypeScript" value="22" />
+          <entry key="TypeScript JSX" value="32" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts">
         <counts>
-          <entry key="TypeScriptServerServiceImpl" value="1" />
+          <entry key="TypeScriptServerServiceImpl" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="md" value="538" />
-          <entry key="ts" value="6" />
-          <entry key="tsx" value="535" />
+          <entry key="ts" value="28" />
+          <entry key="tsx" value="1169" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="538" />
-          <entry key="TypeScript" value="6" />
-          <entry key="TypeScript JSX" value="535" />
+          <entry key="TypeScript" value="28" />
+          <entry key="TypeScript JSX" value="1169" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/apollo/src/scenes/nav/components/__tests__/NavSearch.test.tsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="333">
-              <caret line="29" column="65" lean-forward="true" selection-start-line="29" selection-start-column="65" selection-end-line="29" selection-end-column="65" />
-              <folding>
-                <element signature="e#0#31#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/apollo/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="46">
-                <caret line="2" column="12" lean-forward="true" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/apollo/src/scenes/nav/components/__tests__/__snapshots__/NavMenu.test.tsx.snap">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/apollo/src/scenes/nav/components/__tests__/__snapshots__/NavSearch.test.tsx.snap">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="8" column="17" lean-forward="true" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/apollo/src/scenes/nav/components/NavSearch.tsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="508">
-              <caret line="32" column="13" lean-forward="true" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
-              <folding>
-                <element signature="e#0#31#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/apollo/src/scenes/nav/components/__tests__/NavMenu.test.tsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-              <folding>
-                <element signature="e#0#31#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/apollo/src/scenes/provider/Provider.tsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/apollo/src/scenes/nav/components/__mocks__/navProvider.mock.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="301">
-              <caret line="57" column="12" selection-start-line="57" selection-start-column="6" selection-end-line="57" selection-end-column="12" />
-              <folding>
-                <element signature="e#0#52#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/apollo/src/common/queries/queries.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/apollo/src/scenes/nav/components/__mocks__/navSearch.mock.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="39" column="13" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
-              <folding>
-                <element signature="e#0#46#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.22152779">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/apollo/src/scenes/nav/components/NavSearch.tsx">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="437">
+                  <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+                  <folding>
+                    <element signature="e#0#31#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/apollo/src/scenes/nav/components/__tests__/NavSearch.test.tsx">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="598">
+                  <caret line="26" column="40" lean-forward="true" selection-start-line="26" selection-start-column="40" selection-end-line="26" selection-end-column="40" />
+                  <folding>
+                    <element signature="e#0#31#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/apollo/src/scenes/nav/components/__tests__/__snapshots__/NavSearch.test.tsx.snap">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="115">
+                  <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/apollo/src/common/types/mock.ts">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="115">
+                  <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/apollo/src/common/helpers/testHelpers.tsx">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="480">
+                  <caret line="61" column="16" selection-start-line="61" selection-start-column="16" selection-end-line="61" selection-end-column="16" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/apollo/src/scenes/nav/components/__mocks__/navSearch.mock.ts">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="1092">
+                  <caret line="48" column="9" lean-forward="true" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
+                  <folding>
+                    <element signature="e#0#46#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/apollo/src/scenes/nav/components/__tests__/NavMenu.test.tsx">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="391">
+                  <caret line="17" selection-start-line="17" selection-end-line="17" />
+                  <folding>
+                    <element signature="e#0#31#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/apollo/src/scenes/provider/Provider.tsx">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="299">
+                  <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+                  <folding>
+                    <element signature="e#0#31#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/apollo/src/scenes/nav/components/queries/rest.ts">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="92">
+                  <caret line="4" column="17" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="17" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>_cache</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -181,14 +206,15 @@
         <option value="$PROJECT_DIR$/apollo/src/App.tsx" />
         <option value="$PROJECT_DIR$/apollo/src/scenes/nav/components/NavMenu.tsx" />
         <option value="$PROJECT_DIR$/apollo/src/scenes/provider/queries/queries.ts" />
-        <option value="$PROJECT_DIR$/apollo/src/scenes/provider/Provider.tsx" />
         <option value="$PROJECT_DIR$/apollo/src/scenes/nav/components/queries/rest.ts" />
-        <option value="$PROJECT_DIR$/apollo/src/scenes/nav/components/__mocks__/navSearch.mock.ts" />
         <option value="$PROJECT_DIR$/apollo/src/scenes/nav/components/__tests__/NavMenu.test.tsx" />
         <option value="$PROJECT_DIR$/apollo/src/common/queries/queries.ts" />
+        <option value="$PROJECT_DIR$/apollo/README.md" />
+        <option value="$PROJECT_DIR$/apollo/src/common/config/SrmConfig.ts" />
+        <option value="$PROJECT_DIR$/apollo/src/scenes/nav/components/__mocks__/navSearch.mock.ts" />
         <option value="$PROJECT_DIR$/apollo/src/scenes/nav/components/NavSearch.tsx" />
         <option value="$PROJECT_DIR$/apollo/src/scenes/nav/components/__tests__/NavSearch.test.tsx" />
-        <option value="$PROJECT_DIR$/apollo/README.md" />
+        <option value="$PROJECT_DIR$/apollo/src/scenes/provider/Provider.tsx" />
       </list>
     </option>
   </component>
@@ -206,11 +232,11 @@
       <path value="$PROJECT_DIR$/apollo/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="144" />
-    <option name="y" value="89" />
-    <option name="width" value="1644" />
-    <option name="height" value="1027" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1680" />
+    <option name="y" value="-640" />
+    <option name="width" value="1680" />
+    <option name="height" value="1669" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -218,7 +244,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -256,6 +281,14 @@
               <item name="7. React Apollo" type="462c0819:PsiDirectoryNode" />
               <item name="apollo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="__tests__" type="462c0819:PsiDirectoryNode" />
+              <item name="__snapshots__" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="7. React Apollo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="7. React Apollo" type="462c0819:PsiDirectoryNode" />
+              <item name="apollo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="common" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -263,6 +296,14 @@
               <item name="7. React Apollo" type="462c0819:PsiDirectoryNode" />
               <item name="apollo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="7. React Apollo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="7. React Apollo" type="462c0819:PsiDirectoryNode" />
+              <item name="apollo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="scenes" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -272,25 +313,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="scenes" type="462c0819:PsiDirectoryNode" />
               <item name="nav" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="7. React Apollo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="7. React Apollo" type="462c0819:PsiDirectoryNode" />
-              <item name="apollo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="scenes" type="462c0819:PsiDirectoryNode" />
-              <item name="nav" type="462c0819:PsiDirectoryNode" />
-              <item name="__tests__" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="7. React Apollo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="7. React Apollo" type="462c0819:PsiDirectoryNode" />
-              <item name="apollo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="scenes" type="462c0819:PsiDirectoryNode" />
-              <item name="nav" type="462c0819:PsiDirectoryNode" />
-              <item name="__tests__" type="462c0819:PsiDirectoryNode" />
-              <item name="__snapshots__" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="7. React Apollo" type="b2602c69:ProjectViewProjectNode" />
@@ -300,16 +322,6 @@
               <item name="scenes" type="462c0819:PsiDirectoryNode" />
               <item name="nav" type="462c0819:PsiDirectoryNode" />
               <item name="components" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="7. React Apollo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="7. React Apollo" type="462c0819:PsiDirectoryNode" />
-              <item name="apollo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="scenes" type="462c0819:PsiDirectoryNode" />
-              <item name="nav" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="__mocks__" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="7. React Apollo" type="b2602c69:ProjectViewProjectNode" />
@@ -331,16 +343,6 @@
               <item name="components" type="462c0819:PsiDirectoryNode" />
               <item name="__tests__" type="462c0819:PsiDirectoryNode" />
               <item name="__snapshots__" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="7. React Apollo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="7. React Apollo" type="462c0819:PsiDirectoryNode" />
-              <item name="apollo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="scenes" type="462c0819:PsiDirectoryNode" />
-              <item name="nav" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="queries" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="7. React Apollo" type="b2602c69:ProjectViewProjectNode" />
@@ -354,6 +356,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -394,25 +397,20 @@
       <option name="presentableId" value="Default" />
       <updated>1547625765104</updated>
       <workItem from="1547625766235" duration="5397000" />
+      <workItem from="1547688527848" duration="9596000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5397000" />
+    <option name="totallyTimeSpent" value="14993000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="1027" extended-state="6" />
+    <frame x="-1680" y="-640" width="1680" height="1669" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24954791" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13200723" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="TypeScript" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="GraphQL" weight="0.3297062" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -420,6 +418,12 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="GraphQL" order="9" weight="0.32876712" />
+      <window_info anchor="bottom" id="TypeScript" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -435,90 +439,14 @@
     <entry file="file://$PROJECT_DIR$/apollo/public/index.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/apollo/src/index.tsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="46" selection-start-line="2" selection-start-column="46" selection-end-line="2" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/apollo/src/scenes/provider/scenes/header/Header.tsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/apollo/src/scenes/nav/components/NavSearchOrganizationList.tsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="479">
-          <caret line="34" column="3" lean-forward="true" selection-start-line="34" selection-start-column="3" selection-end-line="34" selection-end-column="3" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/apollo/src/scenes/nav/components/NavSearchProviderList.tsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="413">
-          <caret line="37" column="4" selection-start-line="37" selection-start-column="4" selection-end-line="37" selection-end-column="51" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/apollo/src/scenes/nav/components/NavProvider.tsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-792">
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/apollo/src/App.tsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="48" selection-start-line="3" selection-start-column="48" selection-end-line="3" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/apollo/src/scenes/nav/Nav.tsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/apollo/src/scenes/provider/scenes/header/Header.tsx" />
+    <entry file="file://$PROJECT_DIR$/apollo/src/scenes/nav/components/NavSearchOrganizationList.tsx" />
+    <entry file="file://$PROJECT_DIR$/apollo/src/scenes/nav/components/NavSearchProviderList.tsx" />
+    <entry file="file://$PROJECT_DIR$/apollo/src/scenes/nav/components/NavProvider.tsx" />
     <entry file="file://$PROJECT_DIR$/apollo/src/scenes/nav/components/NavMenu.tsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
           <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/apollo/src/__generated__/types.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="94" column="21" lean-forward="true" selection-start-line="94" selection-start-column="21" selection-end-line="94" selection-end-column="21" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/apollo/src/scenes/provider/queries/queries.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="39" lean-forward="true" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
         </state>
       </provider>
     </entry>
@@ -532,27 +460,23 @@
     <entry file="file://$PROJECT_DIR$/apollo/src/scenes/nav/components/queries/queries.ts">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/apollo/src/scenes/nav/components/queries/rest.ts">
+    <entry file="file://$PROJECT_DIR$/apollo/src/common/types/react.ts" />
+    <entry file="file://$PROJECT_DIR$/apollo/src/scenes/provider/__tests__/Provider.test.tsx" />
+    <entry file="file://$PROJECT_DIR$/apollo/src/scenes/nav/__tests__/__snapshots__/Nav.test.tsx.snap">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="82" lean-forward="true" selection-start-line="5" selection-start-column="82" selection-end-line="5" selection-end-column="82" />
-        </state>
+        <state relative-caret-position="-2972" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/apollo/src/common/types/react.ts">
+    <entry file="file://$PROJECT_DIR$/apollo/src/scenes/nav/components/__tests__/__snapshots__/NavMenu.test.tsx.snap">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apollo/src/scenes/nav/components/__mocks__/navProvider.mock.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="53" lean-forward="true" selection-start-line="4" selection-start-column="53" selection-end-line="4" selection-end-column="53" />
+        <state relative-caret-position="322">
+          <caret line="57" column="12" selection-start-line="57" selection-start-column="6" selection-end-line="57" selection-end-column="12" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#0#52#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/apollo/src/common/types/mock.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="30" lean-forward="true" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
         </state>
       </provider>
     </entry>
@@ -563,73 +487,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/apollo/src/scenes/provider/__tests__/Provider.test.tsx">
+    <entry file="file://$PROJECT_DIR$/apollo/src/index.tsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="48" lean-forward="true" selection-start-line="2" selection-start-column="48" selection-end-line="2" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/apollo/src/scenes/nav/components/__tests__/NavMenu.test.tsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="276">
+          <caret line="12" column="34" lean-forward="true" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
           <folding>
             <element signature="e#0#31#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/apollo/src/scenes/provider/Provider.tsx">
+    <entry file="file://$PROJECT_DIR$/apollo/src/scenes/nav/Nav.tsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/apollo/src/scenes/nav/components/__mocks__/navProvider.mock.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="57" column="12" selection-start-line="57" selection-start-column="6" selection-end-line="57" selection-end-column="12" />
-          <folding>
-            <element signature="e#0#52#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/apollo/src/scenes/nav/components/__mocks__/navSearch.mock.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="39" column="13" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#46#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/apollo/src/scenes/nav/components/NavSearch.tsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="508">
-          <caret line="32" column="13" lean-forward="true" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+        <state relative-caret-position="529">
+          <caret line="23" column="18" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="18" />
           <folding>
             <element signature="e#0#31#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/apollo/src/scenes/nav/components/__tests__/NavSearch.test.tsx">
+    <entry file="file://$PROJECT_DIR$/apollo/node_modules/@dc0de/react-apollo-hooks/typings/useQuery.d.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="333">
-          <caret line="29" column="65" lean-forward="true" selection-start-line="29" selection-start-column="65" selection-end-line="29" selection-end-column="65" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="207">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/apollo/src/scenes/nav/__tests__/__snapshots__/Nav.test.tsx.snap">
+    <entry file="file://$PROJECT_DIR$/apollo/src/common/config/SrmConfig.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2972" />
+        <state relative-caret-position="-212">
+          <caret line="73" column="39" lean-forward="true" selection-start-line="73" selection-start-column="39" selection-end-line="73" selection-end-column="39" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/apollo/README.md">
@@ -642,13 +531,139 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/apollo/src/scenes/nav/components/__tests__/__snapshots__/NavMenu.test.tsx.snap">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/apollo/src/__generated__/types.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="449">
+          <caret line="73" lean-forward="true" selection-start-line="73" selection-end-line="73" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apollo/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="53" column="8" lean-forward="true" selection-start-line="53" selection-start-column="8" selection-end-line="53" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apollo/src/schema.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="20" column="29" lean-forward="true" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apollo/src/scenes/provider/queries/queries.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apollo/src/__tests__/__snapshots__/App.test.tsx.snap">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2256">
+          <caret line="330" column="34" lean-forward="true" selection-start-line="330" selection-start-column="34" selection-end-line="330" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apollo/src/__tests__/App.test.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="10" column="31" lean-forward="true" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apollo/src/App.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="49" lean-forward="true" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apollo/src/scenes/nav/components/queries/rest.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apollo/src/scenes/nav/components/__tests__/NavMenu.test.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apollo/src/scenes/nav/components/__mocks__/navSearch.mock.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1092">
+          <caret line="48" column="9" lean-forward="true" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apollo/src/common/types/mock.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apollo/src/common/helpers/testHelpers.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="61" column="16" selection-start-line="61" selection-start-column="16" selection-end-line="61" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apollo/src/scenes/nav/components/NavSearch.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/apollo/src/scenes/nav/components/__tests__/__snapshots__/NavSearch.test.tsx.snap">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="17" lean-forward="true" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        <state relative-caret-position="115">
+          <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apollo/src/scenes/nav/components/__tests__/NavSearch.test.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="26" column="40" lean-forward="true" selection-start-line="26" selection-start-column="40" selection-end-line="26" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apollo/src/scenes/provider/Provider.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

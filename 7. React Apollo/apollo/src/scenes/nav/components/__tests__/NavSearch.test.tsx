@@ -13,18 +13,34 @@ it('verifying NavSearch to be rendered', () => {
   expect(container).toMatchSnapshot();
 });
 
+it('verifying NavSearch to be rendered in loading state', async () => {
+    const client: ApolloClient<any> = createClient(MOCK_SUCCESS);
+    const { container } = renderWithApolloHooksRouter(<NavSearch />, { client });
+
+    const input: HTMLInputElement = container.querySelector(`input`) as HTMLInputElement;
+    expect(input).toBeDefined();
+    fireEvent.change(input, { target: { value: 'Admin' }});
+
+    expect(container).toMatchSnapshot();
+});
+
 it('verifying NavSearch to be rendered with GO button', async () => {
   const client: ApolloClient<any> = createClient(MOCK_SUCCESS);
-  const { container } = renderWithApolloHooksRouter(<NavSearch />, { client });
+  const { container, history } = renderWithApolloHooksRouter(<NavSearch />, { client });
 
   const input: HTMLInputElement = container.querySelector(`input`) as HTMLInputElement;
-  fireEvent.click(input);
+  expect(input).toBeDefined();
+  fireEvent.change(input, { target: { value: 'Admin' }});
 
   // @ts-ignore
   render(null);
   await waitForNextTick();
 
-  expect(container).toMatchSnapshot();
+  const button: HTMLButtonElement = container.querySelector(`button`) as HTMLButtonElement;
+  expect(button).toBeDefined();
+  fireEvent.click(button);
+
+  expect(history.location.pathname).toBe('/provider/1000');
 });
 
 it('verifying NavSearch to be rendered with error', async () => {
@@ -39,5 +55,6 @@ it('verifying NavSearch to be rendered with error', async () => {
   render(null);
   await waitForNextTick();
 
-  expect(wrapper.getAllByText('Error!')).toBeDefined();
+  const label: string = `GraphQL error: ${(MOCK_ERROR[0].result as any).errors[0].message}`;
+  expect(wrapper.getAllByText(label)).toBeDefined();
 });
